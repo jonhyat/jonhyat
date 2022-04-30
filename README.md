@@ -3,6 +3,7 @@
 - 🌱 I’m currently working, learning the things...
 - 💞️ I’m looking to collaborate on DevOps most interesting projects
 - 📫 reach me out through this email simonduop1993@gmail.com
+- Buy me some coffee 
 
 <!---
 jonhyat/jonhyat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
