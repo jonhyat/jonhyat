@@ -2,7 +2,7 @@
 - 👀 I’m interested in turning the IT Tech company name into the biggest..
 - 🌱 I’m currently working, learning the things...
 - 💞️ I’m looking to collaborate on DevOps most interesting projects
-- 📫 reach me out through this email simonduop1993@gmail.com
+- 📫 reach me out through this email yatduop@yahoo.com
 - Buy me some coffee 
 
 <!---
